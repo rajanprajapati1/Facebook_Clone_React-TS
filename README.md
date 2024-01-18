@@ -80,7 +80,7 @@ To run the project locally, follow these steps:
 
 The application is deployed on Netlify. The deployment process is automated, and changes are automatically deployed when pushed to the main branch.
 
-**Live Demo:** [Facebook Clone Demo](https://your-netlify-app-url.netlify.app)
+**Live Demo:** [Facebook Clone Demo]([https://your-netlify-app-url.netlify.app](https://65a8c3df61dae24150151d9c--moonlit-daffodil-ea1816.netlify.app/))
 
 ## Contributing
 
